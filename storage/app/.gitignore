@@ -1,0 +1,7 @@
+*
+<<<<<<< HEAD
+!private/
+=======
+>>>>>>> 7fd6814 (رفع التعديلات لبرانش Migrations)
+!public/
+!.gitignore
